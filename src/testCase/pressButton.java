@@ -3,7 +3,7 @@ package testCase;
 import processing.core.PApplet;
 
 public class pressButton extends PApplet {
-    String key;
+    String key= "A";
     public void settings(){
         size(280,280);
     }
@@ -22,10 +22,10 @@ public class pressButton extends PApplet {
             if ((key == "n") || (key == "N")) {
                 line(30, 20, 20, 100);
             }
-            if ((key == "a") || (key == "A")) {
-                fill(0, 255, 0);
-                text(key, 60, 80);
-            }
+//            if ((key == "a") || (key == "A")) {
+//                fill(0, 255, 0);
+//                text(key, 60, 80);
+//            }
             line(30, 20, 30, 100);
             line(90, 20, 90, 100);
         }

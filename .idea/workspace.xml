@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f36d6a85-f267-4aed-b5cb-1e94b2dbf927" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testCase/pressButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testCase/pressButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testCase/robotResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testCase/robotResponse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,136 +15,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCase/colourTry.java">
+        <entry file="file://$PROJECT_DIR$/src/testCase/loadImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCase/followMouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="167">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCase/closeGap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCase/clickEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCase/positionCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-              <folding>
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCase/roundBorder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-              <folding>
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCase/rectangularBorder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCase/pressButton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#804#805#0" expanded="true" />
-                <element signature="e#856#857#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCase/ArrowkeyUse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/testCase/robotResponse.java">
+        <entry file="file://$PROJECT_DIR$/src/testCase/fontUsage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+            <state relative-caret-position="663">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#1310#1311#0" expanded="true" />
-                <element signature="e#1332#1333#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,12 +82,14 @@
         <option value="$PROJECT_DIR$/src/testCase/pressButton.java" />
         <option value="$PROJECT_DIR$/src/testCase/ArrowkeyUse.java" />
         <option value="$PROJECT_DIR$/src/testCase/robotResponse.java" />
+        <option value="$PROJECT_DIR$/src/testCase/loadImage.java" />
+        <option value="$PROJECT_DIR$/src/testCase/fontUsage.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="694" />
-    <option name="y" value="10" />
+    <option name="x" value="808" />
+    <option name="y" value="32" />
     <option name="width" value="1036" />
     <option name="height" value="997" />
   </component>
@@ -204,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -227,22 +125,16 @@
               <item name="Processing_LR" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="Processing_LR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563445417079" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563618275996" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/common" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -250,6 +142,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27816093" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Processing_LR\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Processing_LR\data" />
+      <recent name="F:\Processing_LR\out" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,9 +164,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.robotResponse">
+  <component name="RunManager" selected="Application.fontUsage">
     <configuration name="ArrowkeyUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testCase.ArrowkeyUse" />
+      <module name="Processing_LR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fontUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testCase.fontUsage" />
+      <module name="Processing_LR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loadImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testCase.loadImage" />
       <module name="Processing_LR" />
       <extension name="coverage">
         <pattern>
@@ -290,19 +217,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rectangularBorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCase.rectangularBorder" />
-      <module name="Processing_LR" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testCase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="robotResponse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testCase.robotResponse" />
       <module name="Processing_LR" />
@@ -316,26 +230,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="roundBorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCase.roundBorder" />
-      <module name="Processing_LR" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testCase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fontUsage" />
+        <item itemvalue="Application.loadImage" />
         <item itemvalue="Application.robotResponse" />
         <item itemvalue="Application.ArrowkeyUse" />
         <item itemvalue="Application.pressButton" />
-        <item itemvalue="Application.rectangularBorder" />
-        <item itemvalue="Application.roundBorder" />
       </list>
     </recent_temporary>
   </component>
@@ -353,18 +254,19 @@
       <workItem from="1562816215604" duration="4995000" />
       <workItem from="1562924477201" duration="2193000" />
       <workItem from="1563158140467" duration="11823000" />
-      <workItem from="1563441339416" duration="3949000" />
+      <workItem from="1563441339416" duration="4595000" />
+      <workItem from="1563601590006" duration="9004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27972000" />
+    <option name="totallyTimeSpent" value="37622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="694" y="10" width="1036" height="997" extended-state="0" />
+    <frame x="808" y="32" width="1036" height="997" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2397541" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24487706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -373,7 +275,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35341832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35341832" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39767054" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,45 +356,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testCase/closeGap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testCase/clickEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testCase/positionCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/data/opYDY.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="jar://$PROJECT_DIR$/processing_lib/core.jar!/processing/core/PApplet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="138" column="22" selection-start-line="138" selection-start-column="20" selection-end-line="138" selection-end-column="22" />
+        <state relative-caret-position="2879">
+          <caret line="1978" column="38" lean-forward="true" selection-start-line="1978" selection-start-column="38" selection-end-line="1978" selection-end-column="38" />
+          <folding>
+            <element signature="e#59656#59657#0" expanded="true" />
+            <element signature="e#59717#59718#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -500,12 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,7 +392,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/testCase/roundBorder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="92">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="e#590#591#0" expanded="true" />
@@ -533,28 +401,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testCase/ArrowkeyUse.java">
+    <entry file="file://$PROJECT_DIR$/src/testCase/positionCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testCase/closeGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testCase/clickEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/testCase/robotResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        <state relative-caret-position="850">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
           <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#1310#1311#0" expanded="true" />
-            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testCase/ArrowkeyUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testCase/loadImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testCase/fontUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
           </folding>
         </state>
       </provider>

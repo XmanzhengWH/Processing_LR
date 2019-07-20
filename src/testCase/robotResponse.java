@@ -1,6 +1,7 @@
 package testCase;
 
 import processing.core.PApplet;
+import processing.core.PImage;
 
 public class robotResponse extends PApplet {
     float x = 60;
@@ -9,31 +10,38 @@ public class robotResponse extends PApplet {
     int bodyHeight = 160;
     int neckHeight = 70;
     float easing = (float) 0.02;
+    PImage img;
+    int Pwidth = 360;
+    int Pheight =580;
+
 
     public void settings(){
-        size(360,480);
+        size(Pwidth,Pheight);
     }
     public void setup(){
         smooth();
         strokeWeight(2);
         ellipseMode(RADIUS);
+        img = loadImage("opYDY.png");
     }
     public void draw(){
+        image(img,0,0,Pwidth,Pheight);
         int targetX = mouseX;
         x += (targetX -x)*easing;
         int targetY = mouseY;
         y += (targetY-y)*easing;
         if(mousePressed){
-            neckHeight = 16;
+            neckHeight = 20;
             bodyHeight = 90;
         }else{
-            neckHeight = 50;
+            neckHeight = 70;
             bodyHeight = 160;
         }
         float ny = y - bodyHeight - neckHeight -radius;
-        background(204);
+//        background(204);
         //neck
         stroke(102);
+        strokeWeight(12);
         line(x+12,y-bodyHeight,x+12,ny);
         //antenna
         line(x+12,ny,x-18,ny-43);

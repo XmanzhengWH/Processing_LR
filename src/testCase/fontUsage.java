@@ -17,9 +17,9 @@ public class fontUsage extends PApplet {
     public void draw(){
         background(102);
         textSize(36);
-        text(quote,25,60,240,100);
+        text(quote,25,15,300,100);
         textSize(18);
-        text(quote,27,90,140,100);
+        text(quote,27,85,200,100);
     }
 
     public static void main(String[] args) {

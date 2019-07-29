@@ -5,7 +5,7 @@ import processing.opengl.*;
 
 public class DDDcase extends PApplet{
     public void settings(){
-        size(440,220,OPENGL);
+        size(440,220,P3D);
 
     }
     public void setup(){

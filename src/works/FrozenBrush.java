@@ -65,19 +65,25 @@ public class FrozenBrush extends PApplet {
             allParticles.get(i).move();
 //            if(allParticles.get(i).vel.mag()<0.01){
 //                                allParticles.add();
+            }
+
+
+//        if(allParticles.size()>0){
+//            // Run script to get points to create triangles with.
+//            Particle Particles = new Particle(x, y, level-1);
+//            data = triangulate(allParticles.get()){
+//                return [x,y]
 //            }
+            strokeWeight((float)0.1);
+        for(int i=0;i<data.length;i+=3){
 
         }
-
-        if(allParticles.size()>0){
-            // Run script to get points to create triangles with.
-            data = Delaunay.triangulate
         }
 
 
 //
 
         }
-    }
+
 
 
